@@ -1,4 +1,8 @@
 _repo: The-Women-s-Victoryand-After-Personal-Reminiscences-1911-1918_48833
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48833-h/images/cover.jpg
 creator:
   author:
     agent_name: Fawcett, Millicent Garrett, Dame
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5969
     wikipedia: http://en.wikipedia.org/wiki/Millicent_Fawcett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48833#The-Women-s-Victoryand-After-Personal-Reminiscences-1911-1918
 gutenberg_issued: '2015-04-30'
 gutenberg_type: Text
 identifiers:
